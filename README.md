@@ -1,0 +1,3 @@
+## Parallelization of Fast Fourier transformation algorithm on the GPU
+
+In this project assignment, the fast Fourier transform, its theoretical setting with the mathematical one is described and application on different hardware platforms. An analysis of technologies suitable for the parallel implementation of fast Fourier transform calculations was performed, and the reasons for choosing the CUDA platform were explained. Then the analysis of several works on a similar topic was performed, and the ways of performing the parallel fast Fourier transformation were presented. Finally, the results of the work itself are described.
